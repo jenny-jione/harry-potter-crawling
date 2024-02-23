@@ -11,7 +11,7 @@ from datetime import datetime, timedelta
 import os
 
 
-FILE_NAME = 'dislikes.csv'
+FILE_NAME = 'data_wd.csv'
 TIME_SLEEP = 0.3
 
 
